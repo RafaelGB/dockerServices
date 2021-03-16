@@ -1,3 +1,5 @@
+# Metadata
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +129,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# jenkins
+jenkins/jenkins_home/
+jenkins/db_data/
+jenkins/centos7/credentials/
+jenkins/secciones/
