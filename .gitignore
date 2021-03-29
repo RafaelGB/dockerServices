@@ -135,3 +135,7 @@ jenkins/jenkins_home/
 jenkins/db_data/
 jenkins/centos7/credentials/
 jenkins/secciones/
+
+# Postgres
+postgres/database-data/
+postgres/*.env
